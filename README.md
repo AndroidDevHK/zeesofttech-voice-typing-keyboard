@@ -20,8 +20,6 @@ One important detail to clarify: **this is not just a custom keyboard extension.
 
 With **over 50,000+ active downloads** on the Google Play Store, it serves a global user base looking for seamless mobile writing and translation workflows.
 
----
-
 ## 👨‍💻 My Role & Technical Contributions
 
 As the **Lead Android Developer** on this project, I was responsible for taking the legacy codebase and completely revitalizing it. My key contributions included:
@@ -29,8 +27,6 @@ As the **Lead Android Developer** on this project, I was responsible for taking 
 * **🎨 Complete UI/UX Redesign (Material 3):** Rebuilt the entire user interface from scratch, replacing legacy screens with Google's **Material 3 / Material You** design system. I implemented dynamic theme adaptations, smooth fluid transition animations, and customizable keyboard skins.
 * **⌨️ Redesign & Recreation of the Advanced Keyboard:** Fully re-engineered the core system-wide IME keyboard extension. I improved key responsiveness, latency, and layout structure to make typing more comfortable and fast.
 * **🛠️ Rich Feature Integrations:** Successfully introduced new modules into the standalone companion application, including the offline translation engine (supporting 40+ languages), the high-fidelity sound dictation audio recorder, and deep voice search API integrations.
-
----
 
 ## 🔒 Code Sharing & Intellectual Property Notice
 
@@ -40,8 +36,6 @@ I have created this repository to showcase:
 * The UI/UX styling and design direction.
 * The feature set and user experience workflows.
 * The architectural design and product scope of what I built.
-
----
 
 ## 🏗️ Architecture: A Dual-Purpose Solution
 
@@ -56,8 +50,6 @@ The main app serves as a centralized hub for productivity. It includes:
 
 ### 2️⃣ The System-Wide Keyboard Service (IME)
 A highly optimized Android Input Method service that integrates smoothly with any app on the device (WhatsApp, Gmail, Chrome, etc.). Users can switch to this keyboard to access voice typing, instant translations, and custom keyboard styles on the fly.
-
----
 
 ## ⌨️ Core Keyboard Features I Recreated
 
@@ -77,8 +69,6 @@ Users can type or speak in their native tongue and translate it on the fly direc
 ### 🔍 Quick System Voice Search
 A smart shortcut keys layout allowing users to trigger fast voice search queries across YouTube, Google, Amazon, and Reddit directly from their active keyboard interface.
 
----
-
 ## 📂 Standalone Companion App Features
 
 ### ⏺️ Pro Audio Recorder Hub
@@ -86,8 +76,6 @@ A built-in high-fidelity audio recorder to capture lectures, corporate meetings,
 
 ### 📲 Standalone Offline Translation Center
 A dedicated translation workspace page in the main app to quickly type or voice-dictate conversations back and forth in 40+ major languages.
-
----
 
 ## 🌍 Supported Languages
 
@@ -104,8 +92,6 @@ The app supports 40+ major global languages and regional dialects:
 * **Bengali** (বাংলা ভয়েস টাইপিং)
 * ...and many more!
 
----
-
 ## 📱 App Screenshots
 
 Here is a look at the final user interface, standalone companion utility screens, and translation tools that I built:
@@ -121,8 +107,6 @@ Here is a look at the final user interface, standalone companion utility screens
   <img src="./screenshots/screenshot_6.png" width="220" alt="Voice Dictation" style="border-radius: 8px; margin: 5px;" />
   <img src="./screenshots/screenshot_7.png" width="220" alt="Setting Options" style="border-radius: 8px; margin: 5px;" />
 </p>
-
----
 
 ## 🏢 Project Details
 * **Role:** Lead Developer (UI/UX Redesign & Feature Integration)

@@ -66,15 +66,15 @@ The app supports 40+ major global languages and regional dialects:
 Here is a look at the final user interface, custom keyboard screens, and translation tools that I built:
 
 <p align="center">
-  <img src="./screenshot_1.png" width="220" alt="Home Screen" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshot_2.png" width="220" alt="Keyboard View" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshot_3.png" width="220" alt="Translation Mode" style="border-radius: 8px; margin: 5px;" />
+  <img src="./screenshots/screenshot_2.png" width="220" alt="Keyboard View" style="border-radius: 8px; margin: 5px;" />
+  <img src="./screenshots/screenshot_3.png" width="220" alt="Translation Mode" style="border-radius: 8px; margin: 5px;" />
+  <img src="./screenshots/screenshot_4.png" width="220" alt="Audio Settings" style="border-radius: 8px; margin: 5px;" />
 </p>
 
 <p align="center">
-  <img src="./screenshot_4.png" width="220" alt="Audio Settings" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshot_5.png" width="220" alt="Themes" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshot_6.png" width="220" alt="Voice Dictation" style="border-radius: 8px; margin: 5px;" />
+  <img src="./screenshots/screenshot_5.png" width="220" alt="Themes" style="border-radius: 8px; margin: 5px;" />
+  <img src="./screenshots/screenshot_6.png" width="220" alt="Voice Dictation" style="border-radius: 8px; margin: 5px;" />
+  <img src="./screenshots/screenshot_7.png" width="220" alt="Setting Options" style="border-radius: 8px; margin: 5px;" />
 </p>
 
 ---

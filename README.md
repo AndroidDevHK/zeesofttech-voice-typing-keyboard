@@ -54,25 +54,33 @@ A highly optimized Android Input Method service that integrates smoothly with an
 
 ---
 
-## 🚀 Key Features I Developed
+## ⌨️ Core Keyboard Features I Recreated
 
-### 🎨 Premium Material 3 UI (Standalone & Keyboard)
-I designed and implemented a modern user interface following Google's **Material 3 / Material You** design system. The app features dynamic color adaptation, smooth fluid animations, and highly customizable keyboard themes that adapt to the system styling.
+### 🎙️ Real-Time Voice Typing (Speech-to-Text)
+The centerpiece of the keyboard itself. I built a highly responsive voice dictation engine where users can **simply speak and the app transcribes their words into text in real-time**. 
+* Supports instant voice transcription for a wide variety of languages and accents.
+* Features smart continuous dictation that won't cut off mid-sentence.
 
-### 🎙️ Advanced Speech-to-Text & Dictation Engine
-No more struggling with tiny on-screen keys. The dictation system uses advanced voice recognition that naturally captures continuous speech, adjusting smoothly to different accents and conversational speeds.
+### 🎨 Custom Keyboard Themes & Personalization
+No more boring stock keyboards. I recreated the appearance suite to support a rich set of **custom theme styles** for the keyboard layout itself.
+* Modern layouts designed according to Google's **Material 3** specification.
+* Highly customizable colors, styles, and button borders to let users design their own ideal layout.
 
-### 📴 High-Performance Offline Translation
-Designed with travelers and remote workers in mind, I integrated on-device translation support for **over 40 major languages**. Users can translate text and entire conversations on the fly even when they are completely offline.
+### 📴 Direct On-Keyboard Offline Translation
+Users can type or speak in their native tongue and translate it on the fly directly inside their keyboard before sending, working completely offline without needing an active internet connection.
 
-### ⏺️ Integrated Pro Audio Recorder
-We wanted this to be more than just a keyboard. I added a built-in high-fidelity audio recorder to the companion app, so users can seamlessly record meetings, lectures, or quick voice memos without switching apps.
+### 🔍 Quick System Voice Search
+A smart shortcut keys layout allowing users to trigger fast voice search queries across YouTube, Google, Amazon, and Reddit directly from their active keyboard interface.
 
-### 🔍 System-Wide Voice Search
-Added a super convenient quick-search feature allowing users to trigger voice queries across popular platforms (like YouTube, Google, Amazon, and Reddit) directly from their keyboard.
+---
 
-### 📝 Precision Text Editing
-Added dedicated Undo/Redo actions and a unique cursor-precision tool to make editing long texts on mobile devices simple and intuitive.
+## 📂 Standalone Companion App Features
+
+### ⏺️ Pro Audio Recorder Hub
+A built-in high-fidelity audio recorder to capture lectures, corporate meetings, and long voice notes with dedicated audio management options directly in the main companion application.
+
+### 📲 Standalone Offline Translation Center
+A dedicated translation workspace page in the main app to quickly type or voice-dictate conversations back and forth in 40+ major languages.
 
 ---
 
@@ -80,7 +88,7 @@ Added dedicated Undo/Redo actions and a unique cursor-precision tool to make edi
 
 The app supports 40+ major global languages and regional dialects:
 * **English** (US, UK, India, AU)
-* **Hindi** (हिंदी वॉयस टाइपिंग)
+* **Hindi** (हिंदी वॉयс टाइपिंग)
 * **Arabic** (لوحة مفاتيح الكتابة بالصوت)
 * **Spanish** (Escritura por voz)
 * **French** (Saisie vocale)
@@ -88,7 +96,7 @@ The app supports 40+ major global languages and regional dialects:
 * **German** (Sprache zu Text)
 * **Japanese** (音声入力キーボード)
 * **Urdu** (اردو وائس ٹائپنگ)
-* **Bengali** (বাংলা ভয়েス টাইপিং)
+* **Bengali** (বাংলা ভয়েস টাইপিং)
 * ...and many more!
 
 ---

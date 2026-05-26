@@ -5,50 +5,48 @@
   <img src="./icon.png" alt="Voice Typing Keyboard Logo" width="120" height="120" style="border-radius: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
 </p>
 
-A premium, high-performance Android keyboard application featuring a state-of-the-art **Glassmorphism UI**, real-time multilingual **AI speech-to-text dictation**, offline translation capabilities, and built-in professional audio utilities.
+This is a premium, high-performance Android keyboard app that I developed during my time at **Zeesoft Tech**. The project was built to solve a simple but frustrating problem: standard mobile keyboards make translation, voice search, and high-speed dictation feel clunky. 
 
-Developed and engineered for **Zeesoft Tech**.
-
----
-
-## 💼 Proprietary & Intellectual Property Notice
-
-> [!WARNING]
-> **CLOSED SOURCE & CONFIDENTIALITY NOTICE**  
-> All source code, assets, and proprietary algorithms associated with this project are the sole intellectual property of **Zeesoft Tech**. Public sharing, distribution, or reproduction of the source code is strictly prohibited under non-disclosure and employment agreements. 
-> 
-> This repository serves exclusively as a **portfolio showcase** to demonstrate UI/UX design excellence, system architecture capabilities, and product engineering achievements.
+To address this, we designed a beautiful, modern **Glassmorphism UI** and combined it with advanced on-device speech-to-text and offline translation capabilities.
 
 ---
 
-## ✨ Features & Capabilities
+## 🔒 Code Sharing & Intellectual Property Notice
 
-### 🎨 Premium Glassmorphism UI
-* Features a sleek, modern, and translucent design.
-* Dynamic frosted-glass overlays and customizable keyboard styles to elevate the Android visual experience.
+Because this app is actively published and holds proprietary commercial value, **the source code cannot be shared publicly** under my employment and confidentiality agreements with **Zeesoft Tech**. 
 
-### 🎙️ AI-Powered Speech-to-Text Dictation
-* Hands-free typing with high-precision voice recognition.
-* Smart acoustics processing that understands various regional accents and dialects naturally.
+I have created this repository to showcase:
+* The UI/UX styling and design direction.
+* The feature set and user experience workflows.
+* The architectural design and product scope of what I built.
 
-### 📴 High-Performance Offline Translation
-* Direct translation between **40+ global languages** natively on-device.
-* Full translation capabilities work completely offline without relying on active internet connections.
+---
 
-### ⏺️ Integrated Pro Audio Recorder
-* Premium voice recorder built directly into the keyboard system.
-* Captures high-quality meetings, lectures, and quick audio notes seamlessly.
+## 🚀 The Features I Developed
+
+### 🎨 Beautiful Glassmorphism UI
+Mobile inputs should be fun to use. I implemented a premium "frosted glass" interface featuring smooth translucency and customizable keyboard skins that look stunning on modern high-res displays.
+
+### 🎙️ AI Dictation & Speech-to-Text
+No more struggling with tiny on-screen keys. The dictation system uses advanced voice recognition that naturally captures continuous speech, adjusting smoothly to different accents and conversational speeds.
+
+### 📴 Fully Offline Translation
+Designed with travelers in mind, I integrated on-device translation support for **over 40 major languages**. Users can translate conversations on the fly even when they are completely off the grid.
+
+### ⏺️ Smart Audio Recorder & Utility Toolkit
+We wanted this to be more than just a keyboard. I added a built-in high-fidelity audio recorder so users can seamlessly record meetings, lectures, or quick voice memos without switching apps.
 
 ### 🔍 System-Wide Voice Search
-* Instantly search across Google, YouTube, Amazon, Reddit, and more directly from the keyboard without manual typing.
+Added a super convenient quick-search feature allowing users to trigger voice queries across popular platforms (like YouTube, Google, Amazon, and Reddit) directly from their keyboard.
 
-### 📝 Advanced Editing Toolkit
-* Precise text correction features including dedicated **Undo/Redo** actions and an innovative **touch-zoom** cursor precision tool.
+### 📝 Precision Text Editing
+Added dedicated Undo/Redo actions and a unique cursor-precision tool to make editing long texts on mobile devices simple and intuitive.
 
 ---
 
-## 🌍 Supported Languages (40+)
+## 🌍 Supported Languages
 
+The app supports 40+ major global languages and regional dialects:
 * **English** (US, UK, India, AU)
 * **Hindi** (हिंदी वॉयস टाइपिंग)
 * **Arabic** (لوحة مفاتيح الكتابة بالصوت)
@@ -59,34 +57,29 @@ Developed and engineered for **Zeesoft Tech**.
 * **Japanese** (音声入力キーボード)
 * **Urdu** (اردو وائس ٹائپنگ)
 * **Bengali** (বাংলা ভয়েস টাইপিং)
-* *And 30+ other major global languages...*
+* ...and many more!
 
 ---
 
-## 📱 Visual Showcase
+## 📱 App Screenshots
 
-Here is a visual presentation of the interface and workflows of the application:
+Here is a look at the final user interface, custom keyboard screens, and translation tools that I built:
 
 <p align="center">
-  <b>App Screenshots</b>
+  <img src="./screenshot_1.png" width="220" alt="Home Screen" style="border-radius: 8px; margin: 5px;" />
+  <img src="./screenshot_2.png" width="220" alt="Keyboard View" style="border-radius: 8px; margin: 5px;" />
+  <img src="./screenshot_3.png" width="220" alt="Translation Mode" style="border-radius: 8px; margin: 5px;" />
 </p>
 
 <p align="center">
-  <img src="./screenshot_1.png" width="220" alt="App Screenshot 1" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshot_2.png" width="220" alt="App Screenshot 2" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshot_3.png" width="220" alt="App Screenshot 3" style="border-radius: 8px; margin: 5px;" />
-</p>
-
-<p align="center">
-  <img src="./screenshot_4.png" width="220" alt="App Screenshot 4" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshot_5.png" width="220" alt="App Screenshot 5" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshot_6.png" width="220" alt="App Screenshot 6" style="border-radius: 8px; margin: 5px;" />
+  <img src="./screenshot_4.png" width="220" alt="Audio Settings" style="border-radius: 8px; margin: 5px;" />
+  <img src="./screenshot_5.png" width="220" alt="Themes" style="border-radius: 8px; margin: 5px;" />
+  <img src="./screenshot_6.png" width="220" alt="Voice Dictation" style="border-radius: 8px; margin: 5px;" />
 </p>
 
 ---
 
-## 🏢 Professional Context
-
-* **Developer:** Hasnat
+## 🏢 Project Details
+* **Role:** Lead Developer
 * **Company:** Zeesoft Tech
-* **Release Status:** Active on Google Play Store
+* **Availability:** Available on the Google Play Store

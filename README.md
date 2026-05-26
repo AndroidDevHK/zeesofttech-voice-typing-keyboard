@@ -1,22 +1,22 @@
 # 🎙️ Multilingual Voice Typing Keyboard & Standalone Translator App
 
 <p align="center">
-  <img src="./icon.png" alt="Voice Typing Keyboard Logo" width="140" height="140" style="border-radius: 28px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+ <img src="./icon.png" alt="Voice Typing Keyboard Logo" width="140" height="140" style="border-radius: 28px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.all.languages.voicetyping.keyboard" target="_blank">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="64" />
-  </a>
+ <a href="https://play.google.com/store/apps/details?id=com.all.languages.voicetyping.keyboard" target="_blank">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="64" />
+ </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" />
+ <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" />
 </p>
 
 This is a premium Android application that I developed during my time at **Zeesoft Tech**. 
 
-One important detail to clarify: **this is not just a custom keyboard extension.** While it integrates a powerful system-wide IME (Input Method Editor) keyboard for typing anywhere on Android, it also acts as a **comprehensive standalone utility and productivity app**. The main app houses a full suite of tools—including an offline Translation Center, a professional Audio Recorder, Voice Search engine, and an interactive Theme Customizer.
+One important detail to clarify: **this is not just a custom keyboard extension.** While it integrates a powerful system-wide IME (Input Method Editor) keyboard for typing anywhere on Android, it also acts as a **comprehensive standalone utility and productivity app**. The main app houses a full suite of tools, including an offline Translation Center, a professional Audio Recorder, Voice Search engine, and an interactive Theme Customizer.
 
 With **over 50,000+ active downloads** on the Google Play Store, it serves a global user base looking for seamless mobile writing and translation workflows.
 
@@ -97,15 +97,15 @@ The app supports 40+ major global languages and regional dialects:
 Here is a look at the final user interface, standalone companion utility screens, and translation tools that I built:
 
 <p align="center">
-  <img src="./screenshots/screenshot_2.png" width="220" alt="Keyboard View" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshots/screenshot_3.png" width="220" alt="Translation Mode" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshots/screenshot_4.png" width="220" alt="Audio Settings" style="border-radius: 8px; margin: 5px;" />
+ <img src="./screenshots/screenshot_2.png" width="220" alt="Keyboard View" style="border-radius: 8px; margin: 5px;" />
+ <img src="./screenshots/screenshot_3.png" width="220" alt="Translation Mode" style="border-radius: 8px; margin: 5px;" />
+ <img src="./screenshots/screenshot_4.png" width="220" alt="Audio Settings" style="border-radius: 8px; margin: 5px;" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/screenshot_5.png" width="220" alt="Themes" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshots/screenshot_6.png" width="220" alt="Voice Dictation" style="border-radius: 8px; margin: 5px;" />
-  <img src="./screenshots/screenshot_7.png" width="220" alt="Setting Options" style="border-radius: 8px; margin: 5px;" />
+ <img src="./screenshots/screenshot_5.png" width="220" alt="Themes" style="border-radius: 8px; margin: 5px;" />
+ <img src="./screenshots/screenshot_6.png" width="220" alt="Voice Dictation" style="border-radius: 8px; margin: 5px;" />
+ <img src="./screenshots/screenshot_7.png" width="220" alt="Setting Options" style="border-radius: 8px; margin: 5px;" />
 </p>
 
 ## 🏢 Project Details

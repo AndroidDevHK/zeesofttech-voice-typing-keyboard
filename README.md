@@ -7,6 +7,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" />
+  <a href="https://play.google.com/store/apps/details?id=com.all.languages.voicetyping.keyboard" target="_blank">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="50" style="margin-left: 10px; vertical-align: middle;" />
+  </a>
 </p>
 
 This is a premium Android application that I developed during my time at **Zeesoft Tech**. 

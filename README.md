@@ -1,4 +1,4 @@
-# 🎙️ Multilingual AI Voice Keyboard & Standalone Translator App
+# 🎙️ Multilingual Voice Typing Keyboard & Standalone Translator App
 
 <p align="center">
   <img src="./icon.png" alt="Voice Typing Keyboard Logo" width="140" height="140" style="border-radius: 28px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
@@ -55,7 +55,7 @@ The main app serves as a centralized hub for productivity. It includes:
 * **Settings & Custom Dictation:** A management screen to configure offline translation packages, voice speed, and dictionary terms.
 
 ### 2️⃣ The System-Wide Keyboard Service (IME)
-A highly optimized Android Input Method service that integrates smoothly with any app on the device (WhatsApp, Gmail, Chrome, etc.). Users can switch to this keyboard to access AI dictation, instant translations, and custom keyboard styles on the fly.
+A highly optimized Android Input Method service that integrates smoothly with any app on the device (WhatsApp, Gmail, Chrome, etc.). Users can switch to this keyboard to access voice typing, instant translations, and custom keyboard styles on the fly.
 
 ---
 

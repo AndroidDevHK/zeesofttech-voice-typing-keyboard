@@ -7,7 +7,7 @@
 
 This is a premium, high-performance Android keyboard app that I developed during my time at **Zeesoft Tech**. The project was built to solve a simple but frustrating problem: standard mobile keyboards make translation, voice search, and high-speed dictation feel clunky. 
 
-To address this, we designed a beautiful, modern **Glassmorphism UI** and combined it with advanced on-device speech-to-text and offline translation capabilities.
+To address this, we designed a beautiful, modern **Material 3 UI** and combined it with advanced on-device speech-to-text and offline translation capabilities.
 
 ---
 
@@ -24,8 +24,8 @@ I have created this repository to showcase:
 
 ## 🚀 The Features I Developed
 
-### 🎨 Beautiful Glassmorphism UI
-Mobile inputs should be fun to use. I implemented a premium "frosted glass" interface featuring smooth translucency and customizable keyboard skins that look stunning on modern high-res displays.
+### 🎨 Premium Material 3 UI
+Mobile inputs should be fun to use. I designed and implemented a modern user interface following Google's **Material 3 / Material You** design system, featuring dynamic color adaptation, smooth fluid animations, and highly customizable keyboard themes that adapt to the system styling.
 
 ### 🎙️ AI Dictation & Speech-to-Text
 No more struggling with tiny on-screen keys. The dictation system uses advanced voice recognition that naturally captures continuous speech, adjusting smoothly to different accents and conversational speeds.

@@ -5,9 +5,25 @@
   <img src="./icon.png" alt="Voice Typing Keyboard Logo" width="120" height="120" style="border-radius: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" />
+</p>
+
 This is a premium Android application that I developed during my time at **Zeesoft Tech**. 
 
 One important detail to clarify: **this is not just a custom keyboard extension.** While it integrates a powerful system-wide IME (Input Method Editor) keyboard for typing anywhere on Android, it also acts as a **comprehensive standalone utility and productivity app**. The main app houses a full suite of tools—including an offline Translation Center, a professional Audio Recorder, Voice Search engine, and an interactive Theme Customizer.
+
+With **over 50,000+ active downloads** on the Google Play Store, it serves a global user base looking for seamless mobile writing and translation workflows.
+
+---
+
+## 👨‍💻 My Role & Technical Contributions
+
+As the **Lead Android Developer** on this project, I was responsible for taking the legacy codebase and completely revitalizing it. My key contributions included:
+
+* **🎨 Complete UI/UX Redesign (Material 3):** Rebuilt the entire user interface from scratch, replacing legacy screens with Google's **Material 3 / Material You** design system. I implemented dynamic theme adaptations, smooth fluid transition animations, and customizable keyboard skins.
+* **⌨️ Redesign & Recreation of the Advanced Keyboard:** Fully re-engineered the core system-wide IME keyboard extension. I improved key responsiveness, latency, and layout structure to make typing more comfortable and fast.
+* **🛠️ Rich Feature Integrations:** Successfully introduced new modules into the standalone companion application, including the offline translation engine (supporting 40+ languages), the high-fidelity sound dictation audio recorder, and deep voice search API integrations.
 
 ---
 
@@ -64,15 +80,15 @@ Added dedicated Undo/Redo actions and a unique cursor-precision tool to make edi
 
 The app supports 40+ major global languages and regional dialects:
 * **English** (US, UK, India, AU)
-* **Hindi** (हिंदी वॉयс टाइपिंग)
+* **Hindi** (हिंदी वॉयस टाइपिंग)
 * **Arabic** (لوحة مفاتيح الكتابة بالصوت)
 * **Spanish** (Escritura por voz)
 * **French** (Saisie vocale)
 * **Portuguese** (Digitação por voz)
 * **German** (Sprache zu Text)
 * **Japanese** (音声入力キーボード)
-* **Urdu** (اردو وائس تائپنگ)
-* **Bengali** (বাংলা ভয়েস টাইপিং)
+* **Urdu** (اردو وائس ٹائپنگ)
+* **Bengali** (বাংলা ভয়েス টাইপিং)
 * ...and many more!
 
 ---
@@ -96,6 +112,6 @@ Here is a look at the final user interface, standalone companion utility screens
 ---
 
 ## 🏢 Project Details
-* **Role:** Lead Developer
+* **Role:** Lead Developer (UI/UX Redesign & Feature Integration)
 * **Company:** Zeesoft Tech
-* **Availability:** Available on the Google Play Store
+* **Availability:** Available on the Google Play Store (**50K+ Downloads**)

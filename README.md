@@ -1,15 +1,17 @@
 # 🎙️ Multilingual AI Voice Keyboard & Standalone Translator App
 
 <p align="center">
-  <img src="./company_icon.webp" alt="Zeesoft Tech Logo" width="120" style="margin-right: 20px;" />
-  <img src="./icon.png" alt="Voice Typing Keyboard Logo" width="120" height="120" style="border-radius: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+  <img src="./icon.png" alt="Voice Typing Keyboard Logo" width="140" height="140" style="border-radius: 28px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" style="vertical-align: middle;" />
   <a href="https://play.google.com/store/apps/details?id=com.all.languages.voicetyping.keyboard" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-Get_It_On-101010?style=for-the-badge&logo=google-play" alt="Get it on Google Play" style="vertical-align: middle; margin-left: 10px;" />
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="64" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" />
 </p>
 
 This is a premium Android application that I developed during my time at **Zeesoft Tech**. 

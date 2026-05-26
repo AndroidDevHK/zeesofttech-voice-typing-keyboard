@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" />
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" style="vertical-align: middle;" />
   <a href="https://play.google.com/store/apps/details?id=com.all.languages.voicetyping.keyboard" target="_blank">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="50" style="margin-left: 10px; vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Google_Play-Get_It_On-101010?style=for-the-badge&logo=google-play" alt="Get it on Google Play" style="vertical-align: middle; margin-left: 10px;" />
   </a>
 </p>
 

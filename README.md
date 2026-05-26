@@ -111,4 +111,4 @@ Here is a look at the final user interface, standalone companion utility screens
 ## 🏢 Project Details
 * **Role:** Lead Developer (UI/UX Redesign & Feature Integration)
 * **Company:** Zeesoft Tech
-* **Availability:** Available on the Google Play Store (**50K+ Downloads**)
+* **Availability:** Available on the Google Play Store (**50K+ Downloads**), [**Download Now**](https://play.google.com/store/apps/details?id=com.all.languages.voicetyping.keyboard)
